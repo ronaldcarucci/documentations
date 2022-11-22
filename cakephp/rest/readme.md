@@ -10,7 +10,7 @@ First, you have to create & initialize a cakephp project using this command :
 composer create-project --prefer-dist cakephp/app rest_app
 ```
 
-![](/rest_01.png "rest_01")
+![](./rest_01.png "rest_01")
 
 
 Once the project is initialized, the first thing to do is create a database.
@@ -38,7 +38,7 @@ Replace the `default` definition by :
 
 The project can now interact with database :
 
-![](/rest_02.png "rest_02")
+![](./rest_02.png "rest_02")
 
 ## Database Population
 
